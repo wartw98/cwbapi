@@ -1,9 +1,9 @@
 # cwbapi
 台灣氣象API
-##API KEY請到此取得  
+## API KEY請到此取得  
 https://opendata.cwb.gov.tw/user/authkey  
 
-##下載api.php即可
+## 下載api.php即可
   
 ##設定以下參數即可取得  
 $KEY="";//授權KEY  
